@@ -19,4 +19,4 @@ Este projeto é uma galeria dinâmica desenvolvida com **HTML5, CSS3 e JavaScrip
    ```bash
    https://laislaodsouzza.github.io/meus-projetos/
 
-*Desenvolvido por Laísla Souza.*
+*Desenvolvido por Laísla Oliveira.*
